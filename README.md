@@ -1,5 +1,16 @@
 # Sistema de Gerenciamento de Tarefas (API)
 
+### Esse repositório contém uma API solicitada para prática e avaliação da matéria de PHP e API's.
+
+**Instruções**
+
+- git clone (link do repositório)
+- composer install (execute no terminal para baixar as dependências do projeto)
+- Inicie no XAMPP o Apache e o MySQL
+- php artisan serve (execute no terminal para iniciar o servidor)
+
+----
+
 **Enunciado: Sistema de Gerenciamento de Tarefas (API)**
 
 Você foi contratado para desenvolver um sistema de gerenciamento de tarefas utilizando Laravel. O sistema deve fornecer uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
