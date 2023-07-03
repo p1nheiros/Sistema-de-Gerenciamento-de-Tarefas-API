@@ -2,6 +2,8 @@
 
 ### Esse repositório contém uma API solicitada para prática e avaliação da matéria de PHP e API's.
 
+</br>
+
 **API em execução no Postman:**
 
 [![](https://markdown-videos.vercel.app/youtube/V7IgQjuNsrU)](https://www.youtube.com/watch?v=V7IgQjuNsrU)
@@ -50,8 +52,13 @@
   
 ----
 
-**Enunciado: Sistema de Gerenciamento de Tarefas (API)**
+<details>
+  <summary>👈 Tarefa proposta</summary>
+  <br/>
 
+  **Enunciado: Sistema de Gerenciamento de Tarefas (API)**
+<p align="left"> 
+ 
 Você foi contratado para desenvolver um sistema de gerenciamento de tarefas utilizando Laravel. O sistema deve fornecer uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
 
 **Requisitos:**
@@ -118,3 +125,17 @@ Ao clonar um projeto Laravel de um repositório Git, é necessário baixar as de
 Com essas etapas, você poderá baixar e configurar corretamente as dependências do projeto Laravel ao cloná-lo de um repositório Git.
 
 Lembre-se de consultar a documentação oficial do Laravel para obter mais informações sobre a configuração e execução de projetos Laravel.
+
+</p>
+  
+  </div>
+</details> 
+
+<details>
+  <summary>✍️ Link do repositório da tarefa</summary>
+  <br/>
+
+  **https://github.com/joaovcandrade/projeto-laravel**
+
+  </div>
+</details> 
