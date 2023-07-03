@@ -2,6 +2,10 @@
 
 ### Esse repositório contém uma API solicitada para prática e avaliação da matéria de PHP e API's.
 
+**API em execução no Postman:**
+
+[![](https://markdown-videos.vercel.app/youtube/V7IgQjuNsrU)](https://www.youtube.com/watch?v=V7IgQjuNsrU)
+
 **Instruções**
 
 - git clone (link do repositório)
