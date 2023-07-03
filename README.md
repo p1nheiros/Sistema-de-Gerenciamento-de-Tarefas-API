@@ -13,6 +13,7 @@
 - ``` git clone ``` (link do repositório)
 - ``` composer install ``` (execute no terminal para baixar as dependências do projeto)
 - Inicie no XAMPP o Apache e o MySQL
+-  ``` php artisan migrate  ```
 - ``` php artisan serve ``` (execute no terminal para iniciar o servidor)
 
 ----
@@ -53,6 +54,8 @@
 ----
 
 ### Tutorial
+
+[![](https://markdown-videos.vercel.app/youtube/B1JWzrHdaCI)](https://www.youtube.com/watch?v=B1JWzrHdaCI)
 
 <details>
   <summary>app/Http/Controllers/TaskController.php</summary>
