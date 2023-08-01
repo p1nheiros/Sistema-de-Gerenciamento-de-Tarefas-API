@@ -1,6 +1,10 @@
+<div align="center">
+
 # Sistema de Gerenciamento de Tarefas (API)
 
 ### Esse repositório contém uma API solicitada para prática e avaliação da matéria de PHP e API's.
+
+</div>
 
 </br>
 
